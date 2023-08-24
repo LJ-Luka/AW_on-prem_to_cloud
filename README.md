@@ -3,4 +3,5 @@ An end to end data pipeline solution for migrating on-prem database to the cloud
 
 View the project summary [here](https://github.com/LJ-Luka/AW_on-prem_to_cloud/blob/main/AW_Data_Eng_Project%20(1).ipynb)  
 
-Download the final dashboard [here](https://github.com/LJ-Luka/AW_on-prem_to_cloud/blob/main/AW_data_eng_project_report.pbix)  
+Download the final dashboard [here](https://github.com/LJ-Luka/AW_on-prem_to_cloud/blob/main/AW_data_eng_project_report.pbix)    
+Data source: AdventureWorks2022 OLTP @ [Microsoft Learn](https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms)
